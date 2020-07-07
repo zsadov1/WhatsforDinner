@@ -8,6 +8,7 @@ function GetValue() {
 		"Chicken Wings",
 		"Pizza",
 		"Grocery Store",
+		"Wildcard!",
 		"My Choice",
 		"Your Choice"
 	);
